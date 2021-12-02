@@ -1,0 +1,17 @@
+.lightBulb {
+  background-color: black;
+  border-radius: 5px;
+  width: 100px;
+  height: 100px;
+}
+
+.button {
+  background-color: black;
+  color: white;
+  width: 80px;
+  height: 30px;
+}
+
+.yellow {
+  background-color: yellow;
+}
